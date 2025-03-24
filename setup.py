@@ -28,7 +28,7 @@ setup(
         "hszinc",
         "six",
         "fysom",
-        "signalslot",
+        "signalslot @ git+https://github.com/etsemerald/signalslot.git",
         "semver",
         "certifi",
     ],
