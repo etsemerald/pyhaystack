@@ -6,6 +6,6 @@ six
 parsimonious
 hszinc>=1.3.0
 fysom
-signalslot
+git+https://github.com/etsemerald/signalslot
 semver
 certifi
